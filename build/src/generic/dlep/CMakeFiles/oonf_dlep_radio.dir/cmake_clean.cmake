@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "../../../liboonf_dlep_radio.pdb"
+  "../../../liboonf_dlep_radio.so"
+  "../../../liboonf_dlep_radio.so.0.1.0"
+  "CMakeFiles/oonf_dlep_radio.dir/dlep_extension.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/dlep_extension.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/dlep_interface.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/dlep_interface.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/dlep_reader.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/dlep_reader.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/dlep_session.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/dlep_session.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/dlep_writer.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/dlep_writer.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_base_ip/ip.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_base_ip/ip.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_base_metric/metric.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_base_metric/metric.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_base_proto/proto.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_base_proto/proto.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_base_proto/proto_radio.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_base_proto/proto_radio.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_l1_statistics/l1_statistics.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_l1_statistics/l1_statistics.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_l2_statistics/l2_statistics.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_l2_statistics/l2_statistics.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_lid/lid.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_lid/lid.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_radio_attributes/radio_attributes.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/ext_radio_attributes/radio_attributes.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/radio/dlep_radio.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/radio/dlep_radio.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/radio/dlep_radio_interface.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/radio/dlep_radio_interface.c.o.d"
+  "CMakeFiles/oonf_dlep_radio.dir/radio/dlep_radio_session.c.o"
+  "CMakeFiles/oonf_dlep_radio.dir/radio/dlep_radio_session.c.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/oonf_dlep_radio.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

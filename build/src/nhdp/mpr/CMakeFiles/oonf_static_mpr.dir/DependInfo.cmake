@@ -1,0 +1,23 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/sreevathsa/Documents/MANET/customOONF/src/nhdp/mpr/mpr.c" "src/nhdp/mpr/CMakeFiles/oonf_static_mpr.dir/mpr.c.o" "gcc" "src/nhdp/mpr/CMakeFiles/oonf_static_mpr.dir/mpr.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/nhdp/mpr/neighbor-graph-flooding.c" "src/nhdp/mpr/CMakeFiles/oonf_static_mpr.dir/neighbor-graph-flooding.c.o" "gcc" "src/nhdp/mpr/CMakeFiles/oonf_static_mpr.dir/neighbor-graph-flooding.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/nhdp/mpr/neighbor-graph-routing.c" "src/nhdp/mpr/CMakeFiles/oonf_static_mpr.dir/neighbor-graph-routing.c.o" "gcc" "src/nhdp/mpr/CMakeFiles/oonf_static_mpr.dir/neighbor-graph-routing.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/nhdp/mpr/neighbor-graph.c" "src/nhdp/mpr/CMakeFiles/oonf_static_mpr.dir/neighbor-graph.c.o" "gcc" "src/nhdp/mpr/CMakeFiles/oonf_static_mpr.dir/neighbor-graph.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/nhdp/mpr/selection-rfc7181.c" "src/nhdp/mpr/CMakeFiles/oonf_static_mpr.dir/selection-rfc7181.c.o" "gcc" "src/nhdp/mpr/CMakeFiles/oonf_static_mpr.dir/selection-rfc7181.c.o.d"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

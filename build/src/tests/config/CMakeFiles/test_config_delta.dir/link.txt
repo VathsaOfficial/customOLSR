@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/test_config_delta.dir/test_config_delta.c.o -o ../../../test_config_delta  -Wl,-rpath,/home/sreevathsa/Documents/MANET/customOONF/build ../../../liboonf_libconfig.so.0.1.0 ../../../liboonf_libcommon.so.0.1.0 ../../../libstatic_cunit.a 

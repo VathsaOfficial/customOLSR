@@ -1,0 +1,26 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/sreevathsa/Documents/MANET/customOONF/build/oonf_libdata.c" "src/libcore/CMakeFiles/oonf_static_libcore.dir/__/__/oonf_libdata.c.o" "gcc" "src/libcore/CMakeFiles/oonf_static_libcore.dir/__/__/oonf_libdata.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/libcore/oonf_cfg.c" "src/libcore/CMakeFiles/oonf_static_libcore.dir/oonf_cfg.c.o" "gcc" "src/libcore/CMakeFiles/oonf_static_libcore.dir/oonf_cfg.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/libcore/oonf_logging.c" "src/libcore/CMakeFiles/oonf_static_libcore.dir/oonf_logging.c.o" "gcc" "src/libcore/CMakeFiles/oonf_static_libcore.dir/oonf_logging.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/libcore/oonf_logging_cfg.c" "src/libcore/CMakeFiles/oonf_static_libcore.dir/oonf_logging_cfg.c.o" "gcc" "src/libcore/CMakeFiles/oonf_static_libcore.dir/oonf_logging_cfg.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/libcore/oonf_main.c" "src/libcore/CMakeFiles/oonf_static_libcore.dir/oonf_main.c.o" "gcc" "src/libcore/CMakeFiles/oonf_static_libcore.dir/oonf_main.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/libcore/oonf_subsystem.c" "src/libcore/CMakeFiles/oonf_static_libcore.dir/oonf_subsystem.c.o" "gcc" "src/libcore/CMakeFiles/oonf_static_libcore.dir/oonf_subsystem.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/libcore/os_generic/os_core_generic_syslog.c" "src/libcore/CMakeFiles/oonf_static_libcore.dir/os_generic/os_core_generic_syslog.c.o" "gcc" "src/libcore/CMakeFiles/oonf_static_libcore.dir/os_generic/os_core_generic_syslog.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/libcore/os_linux/os_core_linux.c" "src/libcore/CMakeFiles/oonf_static_libcore.dir/os_linux/os_core_linux.c.o" "gcc" "src/libcore/CMakeFiles/oonf_static_libcore.dir/os_linux/os_core_linux.c.o.d"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

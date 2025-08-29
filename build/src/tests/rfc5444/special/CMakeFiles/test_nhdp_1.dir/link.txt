@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/test_nhdp_1.dir/test_nhdp_1.c.o -o ../../../../test_nhdp_1  -Wl,-rpath,/home/sreevathsa/Documents/MANET/customOONF/build ../../../../liboonf_libcommon.so.0.1.0 ../../../../liboonf_librfc5444.so.0.1.0 ../../../../libstatic_cunit.a 

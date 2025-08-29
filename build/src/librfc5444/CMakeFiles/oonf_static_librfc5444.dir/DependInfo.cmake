@@ -1,0 +1,27 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/sreevathsa/Documents/MANET/customOONF/src/librfc5444/rfc5444.c" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444.c.o" "gcc" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/librfc5444/rfc5444_context.c" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_context.c.o" "gcc" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_context.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/librfc5444/rfc5444_iana.c" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_iana.c.o" "gcc" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_iana.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/librfc5444/rfc5444_msg_generator.c" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_msg_generator.c.o" "gcc" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_msg_generator.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/librfc5444/rfc5444_pkt_generator.c" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_pkt_generator.c.o" "gcc" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_pkt_generator.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/librfc5444/rfc5444_print.c" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_print.c.o" "gcc" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_print.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/librfc5444/rfc5444_reader.c" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_reader.c.o" "gcc" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_reader.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/librfc5444/rfc5444_tlv_writer.c" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_tlv_writer.c.o" "gcc" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_tlv_writer.c.o.d"
+  "/home/sreevathsa/Documents/MANET/customOONF/src/librfc5444/rfc5444_writer.c" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_writer.c.o" "gcc" "src/librfc5444/CMakeFiles/oonf_static_librfc5444.dir/rfc5444_writer.c.o.d"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

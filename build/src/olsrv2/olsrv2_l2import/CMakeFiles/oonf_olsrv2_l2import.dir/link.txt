@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -shared -Wl,-soname,liboonf_olsrv2_l2import.so.0.1.0 -o ../../../liboonf_olsrv2_l2import.so.0.1.0 CMakeFiles/oonf_olsrv2_l2import.dir/olsrv2_l2import.c.o  -Wl,-rpath,/home/sreevathsa/Documents/MANET/customOONF/build: ../../../liboonf_libcore.so.0.1.0 ../../../liboonf_libconfig.so.0.1.0 ../../../liboonf_libcommon.so.0.1.0 -ldl 

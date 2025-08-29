@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "../../../liboonf_dlep_router.pdb"
+  "../../../liboonf_dlep_router.so"
+  "../../../liboonf_dlep_router.so.0.1.0"
+  "CMakeFiles/oonf_dlep_router.dir/dlep_extension.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/dlep_extension.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/dlep_interface.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/dlep_interface.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/dlep_reader.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/dlep_reader.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/dlep_session.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/dlep_session.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/dlep_writer.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/dlep_writer.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/ext_base_ip/ip.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/ext_base_ip/ip.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/ext_base_metric/metric.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/ext_base_metric/metric.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/ext_base_proto/proto.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/ext_base_proto/proto.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/ext_base_proto/proto_router.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/ext_base_proto/proto_router.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/ext_l1_statistics/l1_statistics.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/ext_l1_statistics/l1_statistics.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/ext_l2_statistics/l2_statistics.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/ext_l2_statistics/l2_statistics.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/ext_lid/lid.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/ext_lid/lid.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/ext_radio_attributes/radio_attributes.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/ext_radio_attributes/radio_attributes.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/router/dlep_router.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/router/dlep_router.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/router/dlep_router_interface.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/router/dlep_router_interface.c.o.d"
+  "CMakeFiles/oonf_dlep_router.dir/router/dlep_router_session.c.o"
+  "CMakeFiles/oonf_dlep_router.dir/router/dlep_router_session.c.o.d"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/oonf_dlep_router.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

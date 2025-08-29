@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -shared -Wl,-soname,liboonf_plugin_controller.so.0.1.0 -o ../../../liboonf_plugin_controller.so.0.1.0 CMakeFiles/oonf_plugin_controller.dir/plugin_controller.c.o  -Wl,-rpath,/home/sreevathsa/Documents/MANET/customOONF/build: ../../../liboonf_libcore.so.0.1.0 ../../../liboonf_libconfig.so.0.1.0 ../../../liboonf_libcommon.so.0.1.0 -ldl 

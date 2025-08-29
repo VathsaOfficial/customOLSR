@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../../libstatic_cunit.a CMakeFiles/static_cunit.dir/cunit.c.o
+/usr/bin/ranlib ../../../libstatic_cunit.a

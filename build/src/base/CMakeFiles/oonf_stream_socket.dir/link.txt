@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -shared -Wl,-soname,liboonf_stream_socket.so.0.1.0 -o ../../liboonf_stream_socket.so.0.1.0 CMakeFiles/oonf_stream_socket.dir/oonf_stream_socket.c.o  -Wl,-rpath,/home/sreevathsa/Documents/MANET/customOONF/build: ../../liboonf_libcore.so.0.1.0 ../../liboonf_libconfig.so.0.1.0 ../../liboonf_libcommon.so.0.1.0 -ldl 
